@@ -1,0 +1,14 @@
+path:  /content/gdrive/My Drive/Colab Notebooks/Test/dataALLimages_updated  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: valid/images  # val images (relative to 'path')
+test: test/images  # val images (relative to 'path'
+
+# Classes
+names:
+  0: ads
+  1: ad_item
+  2: ad_price
+  3: ad_text
+
+
+
